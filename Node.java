@@ -1,4 +1,4 @@
-package Project;
+
 
 public class Node {
     char symbol;

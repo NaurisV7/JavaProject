@@ -1,4 +1,4 @@
-package Project;
+
 
 // LZ77 token klase kas paredzēta LZ77 tokena izveidei objekta formā, lai varētu vieglāk piekļūt pie tokena informācijas pirms tā pārveidošanas
 public class Token {
